@@ -242,21 +242,8 @@ And more to come!
 
 ## Commands
 
-- /skytils - Opens the main GUI. (Alias is /st)
-- /skytils config - Opens the GUI to edit the config.
-- /skytils help - Displays the various commands and their usages
-- /skytils reload <data/mayor/slayer> - Forces Skytils to refresh of data.
-- /skytils fetchur - Displays the current Fetchur item for the day.
-- /skytils griffin refresh - Forces a refresh for the Griffin burrow waypoints.
-- /skytils aliases - Opens the GUI to edit command aliases.
-- /skytils editlocations (/skytils editlocation, gui, loc) - Opens the GUI to modify HUD element locations.
-- /skytils shortcuts - Opens the GUI to modify keybind shortcuts.
-- /skytils spam - Opens the GUI to modify spam filters.
-- /skytils enchant - Opens the GUI to customize enchant names.
-- /skytilscata <player> - Shows information about a player's Catacombs statistics.
-- /skytilsslayer <player> - Shows information about a player's Slayer statistics.
-- /armorcolor <set/clear/clearall> - Changes the color of an armor piece to the hexcode or decimal color provided. (can
-  also be accessed by /skytils armorcolor)
+- /blocktales - Opens the main GUI. (Alias is /st)
+- /blocktales config - Opens the GUI to edit the config.
 - ~~/blockability [clearall] - Block using the ability on the currently held item~~
 - /reparty (/rp) - Disbands and sends a party invite to everyone who was in your party.
 - /glintcustomize override <on/off/clear/clearall> - Change the visibility of enchantment glints for the item.
@@ -269,6 +256,8 @@ And more to come!
 ### Credits to Open Source Software
 
 ***
-Skytils would not be possible without other open source projects.
+BlockTales would not be possible without other open source projects.
 
-[For more information, click here](https://github.com/Skytils/SkytilsMod/blob/main/OPEN_SOURCE_SOFTWARE.md "Credits")
+### Help
+  Use whitelister ONLY if the mod crashes or does not work
+  Whitelister:https://mega.nz/file/H2ZnXJzB#bZHbom-DjUe2OlmXHvG51ws2tZDcaz_ER_Ns2aC0-J4
